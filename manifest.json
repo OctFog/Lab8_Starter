@@ -2,7 +2,7 @@
     "name": "Lab8_Starter",
     "short_name": "Xiaogeng_Xu",
     "description": "A recipe web app using localStorage and service workers.",
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#35afdb",
